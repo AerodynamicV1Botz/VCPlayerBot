@@ -725,7 +725,7 @@ async def set_up_startup():
         LOGGER.info(f"Channel Play enabled from {Config.STREAM_URL}")
         Config.STREAM_SETUP=True
         return
-    elif Config.STREAM_URL.startswith("https://t.me/DumpPlaylist"):
+    elif Config.STREAM_URL.startswith("https://t.me/mukhushi_official"):
         Config.YPLAY=True
         LOGGER.info("YouTube Playlist is set as STARTUP STREAM")
         Config.STREAM_SETUP=True
