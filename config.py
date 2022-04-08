@@ -208,7 +208,7 @@ Note: __For both the cases /fplay also can be used by admins to play the song im
 
 3. Play from a YouTube playlist
 Command: **/yplay**
-__First get a playlist file from @somgstore0 and reply to playlist file.__
+__First get a playlist file from @songstore0 and reply to playlist file.__
 
 4. Live Stream
 Command: **/stream**
