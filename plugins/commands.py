@@ -129,8 +129,8 @@ async def start(client, message):
         return
     buttons = [
         [
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/mukhushi_official'),
-            InlineKeyboardButton('🧩 About Developer', url='https://t.me/mr_sukkun')
+            InlineKeyboardButton('⚙️Update Channel', url='https://t.me/AerodynamicV1_UPDATE'),
+            InlineKeyboardButton('🧩About Developer', url='https://t.me/AerodynamicV1_OFFICIAL')
         ],
         [
             InlineKeyboardButton('👨🏼‍🦯 Help', callback_data='help_main'),
@@ -188,11 +188,11 @@ async def show_help(client, message):
 async def repo_(client, message):
     buttons = [
         [
-            InlineKeyboardButton('🧩 Developer', url='https://t.me/itz_mst_boy'),
-            InlineKeyboardButton('⚙️ Update Channel', url='https://t.me/mukhushi_official'),     
+            InlineKeyboardButton('🧩Developer', url='https://t.me/AerodynamicV1_OFFICIAL'),
+            InlineKeyboardButton('⚙️Update Channel', url='https://t.me/AerodynamicV1_UPDATE'),     
         ],
         [
-            InlineKeyboardButton("🎞 Support", url='https://t.me/friend_warriors'),
+            InlineKeyboardButton("Free Promotion🚀", url='https://t.me/AerodynamicV1_Promotion'),
             InlineKeyboardButton('🗑 Close', callback_data='close'),
         ]
     ]
