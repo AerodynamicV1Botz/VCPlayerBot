@@ -31,8 +31,12 @@ from pyrogram import (
 
 buttons = [
     [
-        InlineKeyboardButton('⚡️Developer', url='https://t.me/itz_mst_bpy'),
-        InlineKeyboardButton('🧩 Join Here', url='https://t.me/mukhushi_official'),
+        InlineKeyboardButton('⚡️Developer', url='https://t.me/AerodynamicV1_OFFICIAL'),
+        InlineKeyboardButton('New Update✅', url='https://t.me/AerodynamicV1_UPDATE'),
+    ],
+[
+        InlineKeyboardButton('👁️‍🗨️'Store💎, url='https://t.me/AerodynamicV1_Store_TG'),
+        InlineKeyboardButton('Free Promotion🚀', url='https://t.me/AerodynamicV1_Promotion'),
     ]
     ]
 def get_cmd(dur):
